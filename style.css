@@ -1,1 +1,63 @@
+body  {	
+	background-color: #7faed1;
+	color: rgb (11, 1, 14);
 
+	font-family: "Montserrat", sans-serif;
+	margin: 0 px;
+}
+
+header {
+	font-size: 2.5 rem;
+	border-bottom: inset 2 px #e716d6;
+	padding: 20 px;
+	color: #83056e;
+	text-align: center;
+}
+
+h1 {
+	font-size: 1.5 rem;
+	text-align: center;
+	padding-top: 10 px;
+}
+p {
+    font-size: 1 rem;
+	text-align: center;
+	padding-top: 0 px;
+}
+
+section {
+	background-color: #7faed1;
+	padding-top: 80 px ;
+	padding-bottom: 80 px;
+	display: flex;
+	justify-content: center;
+}
+
+.chamada-texto {
+	margin-right: 20 px;
+}
+
+
+.chamada {
+    background: rgb (184, 156, 213);
+    padding-bottom: 80 px;
+    padding-top: 80 px;
+    display: flex;
+    justify-content: center;
+}
+
+
+img {
+	width: 300 px;
+    height: 200 px;
+}
+
+.outras-recomendacoes {
+    display: flex;
+    overflow-x: auto;
+    gap: 20 px;
+}
+
+h2 {
+    margin-left: 30 px;
+}
